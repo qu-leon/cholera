@@ -1,1 +1,1 @@
-# cholera
+# 1854 London cholera outbreak data
